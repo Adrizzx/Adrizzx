@@ -110,7 +110,7 @@ Ingeniería de Requisitos · SOLID · Clean Code · UML · htop · Apache Benchm
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**¡Habla, Camarón!**](https://github.com/Adrizzx/HablaCamaron) | Simulador de conducción manual ambientado en Quito, con IA de tránsito (A* + FSM) y más de 440 pruebas automatizadas | Unity 6 · C# |
-| [**AZX-Finance**](https://github.com/Adrizzx/AZX-Finance) | Plataforma de finanzas personales en producción: perfiles, presupuestos, metas, inversiones y simuladores | PHP · MySQL · Chart.js |
+| [**AZX-Finance**](https://github.com/Adrizzx/AZX-Finance) | Plataforma de finanzas personales que estuvo desplegada en hosting público: perfiles, presupuestos, metas, inversiones y simuladores | PHP · MySQL · Chart.js |
 | [**Le Salon de Lumière**](https://github.com/Adrizzx/Sistema-Reservas-Restaurante) | Sistema de reservas con notificaciones por WhatsApp, auditoría, triggers y pruebas unitarias, de integración y de estrés | PHP · MySQL · Twilio · Python |
 | [**Gestión de Proyectos Monster**](https://github.com/Adrizzx/Gestion-Proyectos-Monster) | Talento humano y proyectos con control de acceso por roles, desde la ERS y UML hasta la implementación | Java EE · JSP · MySQL |
 | [**Restaurante Monster**](https://github.com/Adrizzx/Restaurante-Monster) | Pedidos, facturación e inventario con tres roles de usuario | ASP.NET Core · MongoDB |
@@ -124,7 +124,7 @@ Ingeniería de Requisitos · SOLID · Clean Code · UML · htop · Apache Benchm
 
 - **Hackathon Banco Pichincha (ESPE 2025):** líder de equipo en el desarrollo de una aplicación móvil con inteligencia artificial para la gestión financiera personal.
 - **Proyectos para clientes reales:** diseño y entrega de dos sitios web a una empresa de turismo de la Amazonía ecuatoriana.
-- **Aplicación en producción:** AZX-Finance, plataforma de finanzas personales desplegada y accesible en línea.
+- **Despliegue real:** AZX-Finance, plataforma de finanzas personales publicada y operada en un hosting público.
 - **Videojuego serio completo:** autor principal del código de ¡Habla, Camarón!, con IA de tránsito y más de 440 pruebas automatizadas.
 - **Más de 10 proyectos full stack** publicados: sistemas empresariales, APIs, seguridad, DevOps, Business Intelligence, videojuegos y sistemas embebidos.
 
