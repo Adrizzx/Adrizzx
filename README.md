@@ -122,7 +122,7 @@ Ingeniería de Requisitos · SOLID · Clean Code · UML · htop · Apache Benchm
 
 ## Logros destacados
 
-- **Hackathon Banco Pichincha (ESPE 2025):** líder de equipo en el desarrollo de una aplicación móvil con inteligencia artificial para la gestión financiera personal.
+- **Hackathon Banco Pichincha (ESPE 2025):** participante en el desarrollo de una aplicación móvil con inteligencia artificial para la gestión financiera personal.
 - **Proyectos para clientes reales:** diseño y entrega de dos sitios web a una empresa de turismo de la Amazonía ecuatoriana.
 - **Despliegue real:** AZX-Finance, plataforma de finanzas personales publicada y operada en un hosting público.
 - **Videojuego serio completo:** autor principal del código de ¡Habla, Camarón!, con IA de tránsito y más de 440 pruebas automatizadas.
@@ -139,12 +139,9 @@ Asignaturas relevantes: Programación Web Avanzada, Computación Paralela, Ciber
 
 ## Certificaciones y cursos
 
-| Certificación | Institución |
-|---|---|
-| Network Security | Cisco Networking Academy |
-| Power BI | Platzi |
-| Introduction to Model Context Protocol | Anthropic |
-| Claude Code in Action | Anthropic |
+| Certificación | Institución | Fecha |
+|---|---|---|
+| MATLAB Onramp | MathWorks | Mayo 2025 |
 
 ## Competencias técnicas
 
