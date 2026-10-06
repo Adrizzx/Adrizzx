@@ -1,6 +1,6 @@
 <div align="center">
 
-# Marco Adrián Padilla Triviño
+# Marco Adrian Padilla Triviño
 
 ### Desarrollador Full Stack · Estudiante de Ingeniería de Software
 
