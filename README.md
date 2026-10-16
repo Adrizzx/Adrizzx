@@ -2,7 +2,7 @@
 
 # Marco Adrian Padilla Triviño
 
-### Desarrollador Full Stack · Estudiante de Ingeniería de Software
+### Desarrollador · Estudiante de Ingeniería de Software
 
 **Aplicaciones web empresariales · Infraestructura Linux · Business Intelligence · Ciberseguridad**
 
