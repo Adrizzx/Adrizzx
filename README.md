@@ -7,6 +7,8 @@
 **Aplicaciones web empresariales · Infraestructura Linux · Business Intelligence · Ciberseguridad**
 
 [![Email](https://img.shields.io/badge/Email-adrianpadilla824%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adrianpadilla824@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marco--padilla--trivino-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-padilla-trivino)
+[![Portafolio](https://img.shields.io/badge/Portafolio-adrizzx.github.io-38BDF8?style=flat-square&logo=githubpages&logoColor=white)](https://adrizzx.github.io)
 [![Ubicación](https://img.shields.io/badge/Ubicación-Ecuador-1F6FEB?style=flat-square)](#)
 [![ESPE](https://img.shields.io/badge/ESPE-Ingeniería%20de%20Software-0B5D1E?style=flat-square)](https://www.espe.edu.ec/)
 
@@ -139,9 +141,12 @@ Asignaturas relevantes: Programación Web Avanzada, Computación Paralela, Ciber
 
 ## Certificaciones y cursos
 
-| Certificación | Institución | Fecha |
-|---|---|---|
-| MATLAB Onramp | MathWorks | Mayo 2025 |
+| Certificación | Institución | Fecha | Verificación |
+|---|---|---|---|
+| Claude Code in Action | Anthropic | Octubre 2026 | [rmfyjwmmpxhs](https://verify.skilljar.com/c/rmfyjwmmpxhs) |
+| AI Fluency: Framework & Foundations | Anthropic | Octubre 2026 | [i9ohcby6y4ue](https://verify.skilljar.com/c/i9ohcby6y4ue) |
+| Claude 101 | Anthropic | Octubre 2026 | [md7k5sc7hkw3](https://verify.skilljar.com/c/md7k5sc7hkw3) |
+| MATLAB Onramp | MathWorks | Mayo 2025 | |
 
 ## Competencias técnicas
 
